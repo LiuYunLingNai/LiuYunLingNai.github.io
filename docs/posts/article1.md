@@ -22,5 +22,5 @@ tag:
 
 进入群聊后,请私聊群主提供您的账号(使用icqq登录),当然,您也可以在群内发送#LA设置QQ号,并进行扫码登陆即可自行登录(请勾选下次登陆无需确认,否则我会删除账号)
 
-![LA.jpg](https://img2.imgtp.com/2024/05/04/iQqep5AA.jpg)
+![LA.jpg](http://gchat.qpic.cn/gchatpic_new/3065737952/692452854-2594324214-0189CA79D963506526C85CB0233B890F/0?term=255&is_origin=1)
 
