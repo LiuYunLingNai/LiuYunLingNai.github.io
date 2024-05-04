@@ -8,7 +8,7 @@ actions:
     type: primary
 
   - text: 交流群
-    link: 点击链接加入群聊【代挂群】：https://qm.qq.com/q/R6M96GG7W8
+    link: https://qm.qq.com/q/R6M96GG7W8
     type: secondary
 
 features:
