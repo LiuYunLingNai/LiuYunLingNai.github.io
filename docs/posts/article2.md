@@ -10,7 +10,7 @@ https://qsly-qslyln-8978-114514.hf.space?key=LYLN
 ```sh
 https://qsly-qslyln-8978-114514.hf.space?key=LYLN
 ```
-###签名均为外国服务器部署，可能会有延迟
+### 签名均为外国服务器部署，可能会有延迟
 
 
 ## 配置方法
