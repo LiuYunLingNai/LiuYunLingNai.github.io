@@ -31,7 +31,7 @@ tag:
 ###关于代挂服务器的配置
 
 
-![图片](https://www.picgo.net/image/Image-1714827109559.SHUis2)
+![图片](https://img2.imgtp.com/2024/05/04/Jg1ECpWB.jpg)
 
 
 
