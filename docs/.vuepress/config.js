@@ -4,10 +4,9 @@ import { defineUserConfig } from 'vuepress'
 import { viteBundler } from '@vuepress/bundler-vite'
 
 export default defineUserConfig({
-  lang: 'zh-CN',
-
-  title: 'VuePress',
-  description: 'My first VuePress Site',
+  lang: 'zh-CN'
+  title: 'LYLN-Blog',
+  description: '准备跑路中',
 
   theme: defaultTheme({
     logo: 'https://img2.imgtp.com/2024/05/04/DyAwgkkH.jpg',
