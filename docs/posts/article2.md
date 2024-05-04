@@ -1,5 +1,3 @@
-
-
 ### 免费公共QSign
 
 ## 请不要将此网站分享在国内视频平台,如B站
@@ -12,6 +10,8 @@ https://qsly-qslyln-8978-114514.hf.space?key=LYLN
 ```sh
 https://qsly-qslyln-8978-114514.hf.space?key=LYLN
 ```
+###签名均为外国服务器部署，可能会有延迟
+
 
 ## 配置方法
 
