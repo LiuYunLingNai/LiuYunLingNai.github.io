@@ -15,7 +15,7 @@ export default defineUserConfig({
     navbar: [
       '/',
       {
-        text: '文章',
+        text: '文章列表',
         link: '/article/',
       },
       {
@@ -23,7 +23,7 @@ export default defineUserConfig({
         link: '/tag/',
       },
       {
-        text: '不知道捏',
+        text: '还没有想好捏',
         link: '/timeline/',
       },
     ],
