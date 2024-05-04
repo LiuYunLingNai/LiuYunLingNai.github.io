@@ -30,7 +30,7 @@ tag:
 
 如果可以，请给我们一个爱发电，我们将您所捐赠的钱用于日常对和服务器的维护以及开销，您的每一份支持都对我们很重要
 
-https://afdian.net/a/fengsaner
+[爱发电](https://afdian.net/a/fengsaner)
 
 请大家理性捐赠！
 
