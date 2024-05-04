@@ -26,6 +26,8 @@ tag:
 
 (请勾选下次登陆无需确认,否则我会删除账号)
 
+![输入图片说明](https://tu.zhilaohu.icu/file/962988e9179a51723fcef.png)
+
 如果可以，请给我们一个爱发电，我们将您所捐赠的钱用于日常对和服务器的维护以及开销，您的每一份支持都对我们很重要
 
 https://afdian.net/a/fengsaner
