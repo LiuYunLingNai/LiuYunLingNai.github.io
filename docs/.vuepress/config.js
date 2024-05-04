@@ -4,7 +4,8 @@ import { defineUserConfig } from 'vuepress'
 import { viteBundler } from '@vuepress/bundler-vite'
 
 export default defineUserConfig({
-  lang: 'zh-CN'
+  lang: 'zh-CN',
+  
   title: 'LYLN-Blog',
   description: '准备跑路中',
 
