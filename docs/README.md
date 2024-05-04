@@ -1,10 +1,10 @@
 ---
 home: true
 title: Home
-heroImage: https://vuejs.press/images/hero.png
+heroImage: https://img2.imgtp.com/2024/05/04/DyAwgkkH.jpg
 actions:
   - text: Get Started
-    link: /getting-started.html
+    link: /article1.html
     type: primary
 
   - text: Introduction
