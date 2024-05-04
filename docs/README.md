@@ -4,7 +4,7 @@ title: Home
 heroImage: https://img2.imgtp.com/2024/05/04/DyAwgkkH.jpg
 actions:
   - text: 公用云崽Bot
-    link: /article1.html
+    link: /posts/article1.html
     type: primary
 
   - text: 交流群
