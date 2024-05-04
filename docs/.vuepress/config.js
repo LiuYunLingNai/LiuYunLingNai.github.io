@@ -19,11 +19,11 @@ export default defineUserConfig({
         link: '/article/',
       },
       {
-        text: 'Tag',
+        text: '标签',
         link: '/tag/',
       },
       {
-        text: 'Timeline',
+        text: '不知道捏',
         link: '/timeline/',
       },
     ],
