@@ -28,7 +28,7 @@ tag:
 
 ![输入图片说明](https://tu.zhilaohu.icu/file/962988e9179a51723fcef.png)
 
-###关于代挂服务器的配置
+### 关于代挂服务器的配置
 
 
 ![图片](https://img2.imgtp.com/2024/05/04/Jg1ECpWB.jpg)
