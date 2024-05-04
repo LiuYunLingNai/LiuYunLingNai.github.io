@@ -6,8 +6,8 @@ import { viteBundler } from '@vuepress/bundler-vite'
 export default defineUserConfig({
   lang: 'zh-CN',
   
-  title: 'LYLN-Blog',
-  description: '准备跑路中',
+  title: '柳云零奈',
+  description: '原神,启动!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!',
 
   theme: defaultTheme({
     logo: 'https://img2.imgtp.com/2024/05/04/DyAwgkkH.jpg',
@@ -15,12 +15,8 @@ export default defineUserConfig({
     navbar: [
       '/',
       {
-        text: 'Article',
+        text: '文章',
         link: '/article/',
-      },
-      {
-        text: 'Category',
-        link: '/category/',
       },
       {
         text: 'Tag',
