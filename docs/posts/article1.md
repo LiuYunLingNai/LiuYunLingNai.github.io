@@ -1,5 +1,5 @@
 ---
-date: 2022-01-01
+date: 2024-05-04
 category:
   - CategoryA
 tag:
@@ -28,9 +28,16 @@ tag:
 
 ![输入图片说明](https://tu.zhilaohu.icu/file/962988e9179a51723fcef.png)
 
+###关于代挂服务器的配置
+
+
+![图片](https://www.picgo.net/image/Image-1714827109559.SHUis2)
+
+
+
 如果可以，请给我们一个爱发电，我们将您所捐赠的钱用于日常对和服务器的维护以及开销，您的每一份支持都对我们很重要
 
-https://afdian.net/a/fengsaner
+[点击进入](https://afdian.net/a/fengsaner)
 
 请大家理性捐赠！
 
